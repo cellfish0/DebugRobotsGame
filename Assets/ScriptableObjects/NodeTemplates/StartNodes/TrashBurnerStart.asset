@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a34dfb0008b43044e9e192f1b6ee72b2, type: 3}
+  m_Name: TrashBurnerStart
+  m_EditorClassIdentifier: 
+  type: 2
+  testSubjects:
+  - {fileID: 11400000, guid: f0087aae2a932a54480f654e887cf1ed, type: 2}
+  - {fileID: 11400000, guid: 3bae47cbfd81dcd4e8c4e938ac3f8db1, type: 2}

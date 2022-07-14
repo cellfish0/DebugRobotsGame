@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: NodesGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: NodesGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f1a98f4f684299b40a7a4a9b903751dc
+  m_SerializeEntries:
+  - m_GUID: e371c7e9ce923ba4797f70fcad2b6b3b
+    m_Address: NodeScripts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NodeScripts
+  - m_GUID: 4296928dae9b228429d2a363785c7e58
+    m_Address: NodeTemplates
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NodeTemplates
+  - m_GUID: f7d33e9bff0a6814fa1b6841394ca84c
+    m_Address: Puzzles
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Programs
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8d183e5b672953e4ead448c643510cfd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ab40c1dc756979a4d9653bbad58e7905, type: 2}
+    - {fileID: 11400000, guid: 8dee6eb091e7dab438afd413ea2d10da, type: 2}

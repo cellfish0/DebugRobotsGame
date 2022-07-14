@@ -1,0 +1,8 @@
+﻿i = 0
+if(TestSubject.IsHuman and TestSubject.TemperatureC < 98.6)
+{
+		while (i < 10)
+		{
+			TestSubject.TemperatureC = TestSubject.TemperatureC + 4
+		}
+}
